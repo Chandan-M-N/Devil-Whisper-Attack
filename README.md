@@ -5,6 +5,8 @@ This version integrates optimizations and system improvements while maintaining 
 
 Updated Docker Image can be found here: https://hub.docker.com/r/chandan7c/devilwhisper-enhanced
 
+Generated and Tested AEs can be found here: https://github.com/Chandan-M-N/Devil-Whisper-Attack-AE
+
 This project is distributed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 ---
