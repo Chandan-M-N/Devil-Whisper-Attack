@@ -3,6 +3,8 @@
 An improved and customized version of [DevilWhisper](https://github.com/RiskySignal/Devil-Whisper-Attack), originally developed by **Yuxuan Chen, Xuejing Yuan, and Jiangshan Zhang**.  
 This version integrates optimizations and system improvements while maintaining the core functionality.
 
+Updated Docker Image can be found here: https://hub.docker.com/r/chandan7c/devilwhisper-enhanced
+
 This project is distributed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 ---
